@@ -55,14 +55,14 @@ Power Analysis Sizing: Leverages Cohen's d to measure effect magnitude. Due to a
 
 Live Automated Tracking: Ingests incoming production data streams, routes them through programmatic business-logic guard check conditionals, and exports a production-ready Process Control Chart.
 
-###### System Visualization
+System Visualization
 Creative Optimization Matrix
 The interaction analysis shows the stark cost cliff where our strategy succeeds. Shifting from Static Images to Short Videos reduces costs drastically, with the absolute optimal performance achieved when anchoring to a Free Trial Extension.
 
 Production Process Control Chart
 The live confirmation stream fluctuates smoothly within our pre-calculated statistical bounds. The visual rendering engine employs an automated max(0, ci_lower) clamp to keep the lower control limit locked cleanly at a real-world bound of $0.00.
 
-###### Operational Deployment Runbook
+Operational Deployment Runbook
 Prerequisites
 Ensure your local environment is running Python 3.10+ with standard data science packages installed. Containerization tools (e.g., Docker) are explicitly avoided to maximize local bare-metal execution speeds.
 
